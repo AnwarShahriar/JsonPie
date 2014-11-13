@@ -19,7 +19,7 @@ public class JSONPieProcessor<T> {
         JSONObject tempObj = jsonObject;
 
         for (int i = 0; i < tags.length; i++) {
-            String tag = tags[i];
+            String tag = tags[i].trim();
 
             if (i == tags.length - 1) {
                 if (JSONPieUtils.isArray(tag)) {

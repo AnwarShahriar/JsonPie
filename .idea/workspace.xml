@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9426bdd8-08b7-4081-af2d-63ddeb7cba2d" name="Default" comment="Adds JsonPie classes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestJSONPie.java" afterPath="$PROJECT_DIR$/src/TestJSONPie.java" />
+    <list default="true" id="9426bdd8-08b7-4081-af2d-63ddeb7cba2d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieProcessor.java" afterPath="$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieProcessor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JsonPie.iws" />
@@ -49,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSONPieUtils.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="JSONPieUtils.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5301508" vertical-offset="231" max-vertical-offset="629">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="629">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONPieProcessor.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4447236" vertical-offset="129" max-vertical-offset="714">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -77,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/TestJSONPie.java" />
         <option value="$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPie.java" />
         <option value="$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieUtils.java" />
+        <option value="$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieProcessor.java" />
       </list>
     </option>
   </component>
@@ -379,7 +387,11 @@
       <created>1415854344888</created>
       <updated>1415854344888</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adds JsonPie classes">
+      <created>1415854462070</created>
+      <updated>1415854462070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -482,8 +494,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5301508" vertical-offset="231" max-vertical-offset="629">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="629">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/anwarshahriar/jsonpie/JSONPieProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4447236" vertical-offset="129" max-vertical-offset="714">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding />
         </state>
       </provider>
