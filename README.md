@@ -1,20 +1,30 @@
 ###Sample Json
 ``` josn
-  {
-    "array": [
-        1,
-        2,
-        3
-    ],
-    "boolean": true,
-    "number": 123,
-    "object": {
-        "a": "b",
-        "c": "d",
-        "e": "f"
+{
+  "name": {
+    "firstName": "Shahriar",
+    "lastName": "Anwar"
+  },
+  "contacts":[
+    "1234",
+    "5678",
+    "9876"
+  ],
+  "doc":[
+    {
+      "title": "one",
+      "text": "this is doc one"
     },
-    "string": "Hello World"
-  }
+    {
+      "title": "two",
+      "text": "this is doc two"
+    },
+    {
+      "title": "three",
+      "text": "this is doc three"
+    }
+  ]
+}
 ```
 You can just parse everything like that:
 ```java
