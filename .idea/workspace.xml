@@ -29,8 +29,8 @@
       <file leaf-file-name="TestJSONPie.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestJSONPie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.298995" vertical-offset="85" max-vertical-offset="935">
-              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.38442212" vertical-offset="187" max-vertical-offset="1037">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -342,7 +342,11 @@
       <created>1415854514755</created>
       <updated>1415854514755</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adds demo main class">
+      <created>1415861687437</created>
+      <updated>1415861687437</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -393,7 +397,8 @@
     <MESSAGE value="Adds org.json dependencies" />
     <MESSAGE value="Adds JsonPie classes" />
     <MESSAGE value="Fix whitespace problem in tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix whitespace problem in tags" />
+    <MESSAGE value="Adds demo main class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds demo main class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -500,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestJSONPie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.298995" vertical-offset="85" max-vertical-offset="935">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.38442212" vertical-offset="187" max-vertical-offset="1037">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
